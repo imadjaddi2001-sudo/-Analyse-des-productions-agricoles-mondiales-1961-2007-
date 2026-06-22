@@ -3,7 +3,7 @@
 
 ---
 
-## 📁 Structure du cours
+## 📁 Structure du projet
 
 ```
 cours_data/
@@ -33,7 +33,7 @@ cours_data/
 
 ---
 
-## 🚀 Comment utiliser ce cours
+## 🚀 Comment utiliser 
 
 ### 1. Installe Python et les bibliothèques
 ```bash
@@ -80,14 +80,4 @@ jupyter notebook etape6_notebook_jupyter.ipynb
 | 13 | Classification | `RandomForest · confusion matrix · feature importance` |
 | 14 | Prévision | `seasonal_decompose · ExponentialSmoothing · forecast` |
 
----
 
-## 💡 Conseils pour progresser
-
-1. **Lance chaque script** — ne te contente pas de lire le code
-2. **Modifie les paramètres** — change une culture, un pays, une année
-3. **Lis les commentaires** — chaque ligne est expliquée
-
-
-*Dataset : FAO — Productions agricoles mondiales 1961–2007*
-*Niveau : Débutant → Avancé*
