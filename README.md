@@ -1,4 +1,4 @@
-# 🌾 Cours Data Science — Dataset FAO (Productions Agricoles)
+# 🌾 Data Analysis — Dataset FAO (Productions Agricoles)
 **De débutant à avancé — A → Z**
 
 ---
