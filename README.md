@@ -90,18 +90,6 @@ jupyter notebook etape6_notebook_jupyter.ipynb
 4. **Si erreur** → lis le message d'erreur, cherche sur Google ou demande à Claude
 5. **Fais tes propres questions** — ex: "quel pays a le plus grand rendement ?"
 
----
-
-## 🗺️ La suite (après l'étape 14)
-
-- Étape 15 : Évaluation de modèles (cross-validation, GridSearchCV)
-- Étape 16 : SQL + Python
-- Étape 17 : Deep learning (intro)
-- Étape 18 : Déployer un modèle (API Flask)
-- Étape 19 : Big Data (PySpark)
-- Étape 20 : MLOps et pipelines
-
----
 
 *Dataset : FAO — Productions agricoles mondiales 1961–2007*
 *Niveau : Débutant → Avancé*
