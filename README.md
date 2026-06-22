@@ -44,7 +44,7 @@ pip install jupyter notebook
 ### 2. Place le fichier de données dans le même dossier
 ```
 cours_data/
-└── JEU_DE_DONNEE.csv   ← ton fichier FAO ici
+└── JeuDonnee.csv   ← ton fichier FAO ici
 ```
 
 ### 3. Lance les étapes dans l'ordre
@@ -87,8 +87,6 @@ jupyter notebook etape6_notebook_jupyter.ipynb
 1. **Lance chaque script** — ne te contente pas de lire le code
 2. **Modifie les paramètres** — change une culture, un pays, une année
 3. **Lis les commentaires** — chaque ligne est expliquée
-4. **Si erreur** → lis le message d'erreur, cherche sur Google ou demande à Claude
-5. **Fais tes propres questions** — ex: "quel pays a le plus grand rendement ?"
 
 
 *Dataset : FAO — Productions agricoles mondiales 1961–2007*
